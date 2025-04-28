@@ -1,1 +1,1 @@
-This repository consists of files, that are used to run simulation on RASPA. The simulation is CO2 adsorption on IRMOF-1.
+This repository consists of files, that are used to run simulation on RASPA. The simulation is CO2 adsorption on IRMOF-1. All the output of simulations performed are in the Output folder. The simulation performed 14 times for constant pressure of 1 bar and varying temperature and then at constant temperature of 298 K and varying pressure.
